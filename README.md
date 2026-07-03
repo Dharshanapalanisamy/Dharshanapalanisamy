@@ -4,7 +4,7 @@
 
 ### AI/ML Engineering Student • Backend Developer • AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Solutions;Backend+Developer;LLM+Integration+%7C+Automation;Passionate+About+Problem+Solving;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Solutions;Backend+Developer;Passionate+About+Problem+Solving;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
