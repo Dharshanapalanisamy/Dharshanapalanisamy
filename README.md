@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Darshana P S 👋
+# Hi, I'm Darshana P S 
 
 ### AI/ML Engineering Student • Backend Developer • AI Enthusiast
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## 🧠 **About Me**
+##  **About Me**
 
 I'm an **AI/ML Engineering student** passionate about building practical AI solutions, backend automation, and intelligent software.
 
