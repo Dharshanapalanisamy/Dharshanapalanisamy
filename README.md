@@ -82,4 +82,130 @@ Currently, I'm focused on building impactful AI-powered tools while continuously
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </p>
+## Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### CLI-Git-Summarizer
+
+AI-powered command-line tool that automates Git workflows using multiple Large Language Models.
+
+**Key Features**
+- Automated Git workflow (stage → commit → push)
+- AI-generated commit messages
+- Interactive terminal interface
+- Multi-LLM support
+
+**Tech Stack**
+
+`Python` `Typer` `Rich` `Claude` `GPT` `Gemini` `Ollama`
+
+</td>
+
+<td width="50%" valign="top">
+
+### CholanAI – Agri Assistant
+
+Localized Telegram chatbot that provides real-time agricultural assistance for farmers.
+
+**Key Features**
+- Native language support
+- Live weather integration
+- Crop advisory recommendations
+- Real-time chatbot assistance
+
+**Tech Stack**
+
+`Python` `Telegram Bot API` `NLP` `Weather API` `Crop API`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### Smart Tribal Farming in Agriculture – Kolli Hills
+
+Research project focused on improving agricultural practices for tribal farming communities using AI-driven solutions.
+
+**Highlights**
+- Smart agriculture framework
+- AI-assisted farming research
+- Sustainable agriculture
+- Kolli Hills case study
+
+**Focus Areas**
+
+`Artificial Intelligence` `Agriculture` `Research`
+## Experience
+
+### Java Full Stack Development Intern
+**AICTE – EduSkills Virtual Internship** *(2024)*
+
+- Developed full-stack web applications using Java, Servlets, JSP, HTML, CSS, and JavaScript.
+- Built RESTful APIs and integrated backend services with databases.
+- Strengthened backend development and software engineering fundamentals.
+
+---
+
+### Google AI/ML Virtual Intern
+**AICTE × Google** *(2024)*
+
+- Built and evaluated machine learning models using Google Cloud AI tools.
+- Worked on data preprocessing, model training, and performance optimization.
+- Gained practical exposure to supervised and unsupervised learning techniques.
+## Education
+
+**K.S. Rangasamy College of Technology**  
+**B.E. Computer Science Engineering (AI & ML)**  
+**CGPA:** 8.50 | *2023 – Present*
+
+---
+
+## Certifications
+
+- AWS Cloud Practitioner
+- Oracle Cloud Infrastructure – AI Foundations Associate
+- Salesforce Trailhead
+- NPTEL
+  - Soft Skills
+  - Internet of Things
+  - Practical Cyber Security
+  - Design Thinking
+  ## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharshanapalanisamy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshanapalanisamy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+
+## Thanks for Visiting!
+
+> *"Every great solution begins with curiosity, grows through learning, and comes to life with code."*
+
+I'm passionate about building practical AI solutions, learning continuously, and creating technology that makes a meaningful impact.
+
+If you'd like to collaborate, discuss ideas, or just connect, feel free to reach out!
+
+<p>
+  <a href="https://www.linkedin.com/in/darshanaps/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:darshanapalanisamy08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+⭐ **Great software isn't just built with code—it's built with curiosity, persistence, and a desire to solve real problems.**
+
+</div>
 
